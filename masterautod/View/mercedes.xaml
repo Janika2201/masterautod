@@ -3,10 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.mercedes">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout Padding="15">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Mercedes" />
+            <Image x:Name="foto1" Source="mers.png"/>
+            <Picker x:Name="merced" SelectedIndexChanged="merced_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Mercedes-Benz X-Class</x:String>
+
+                    <x:String>Mercedes-Benz SLC-Class</x:String>
+                    <x:String>Mercedes-Benz A-Class</x:String>
+                </Picker.Items>
+            </Picker>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

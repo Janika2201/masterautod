@@ -60,6 +60,41 @@ namespace masterautod
                 ImagePath = "mers.png",
                 TargetPage = typeof(View.mercedes)
             });
+            list.Add(new menuitems()
+            {
+                Text = "Gensis",
+                Detail = "Все о Genesis",
+                ImagePath = "genesis.png",
+                TargetPage = typeof(View.genesis)
+            });
+            list.Add(new menuitems()
+            {
+                Text = "Moskvits",
+                Detail = "Все о Moskvits",
+                ImagePath = "moskvits.png",
+                TargetPage = typeof(View.moskvits)
+            });
+            list.Add(new menuitems()
+            {
+                Text = "Skoda",
+                Detail = "Все о Skoda",
+                ImagePath = "skoda.png",
+                TargetPage = typeof(View.skoda)
+            });
+            list.Add(new menuitems()
+            {
+                Text = "Lamborghini",
+                Detail = "Все о Lamborghini",
+                ImagePath = "lamborghini.png",
+                TargetPage = typeof(View.lamborghini)
+            });
+            list.Add(new menuitems()
+            {
+                Text = "Toyota",
+                Detail = "Все о Toyota",
+                ImagePath = "toyta.png",
+                TargetPage = typeof(View.toyota)
+            });
 
             return list;
         }

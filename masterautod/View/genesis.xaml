@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="masterautod.View.genesis">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Genesis" />
+            <Image x:Name="foto1" Source="genesis.png"/>
+            <Picker x:Name="genesismodel" SelectedIndexChanged="genesis_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Genesis G70 I</x:String>
+
+                    <x:String>Genesis G80 I</x:String>
+                    <x:String>Genesis G80 II</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

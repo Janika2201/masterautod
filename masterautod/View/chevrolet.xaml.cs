@@ -16,5 +16,27 @@ namespace masterautod.View
         {
             InitializeComponent();
         }
+
+        private void sevrolemodel_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (sevrolemodel.Items[sevrolemodel.SelectedIndex] == "Corvette")
+            {
+                foto1.Source = "sevrole1.jpg";
+                
+            }
+
+            else if (sevrolemodel.Items[sevrolemodel.SelectedIndex] == "Camaro")
+            {
+                foto1.Source = "Camaro.jpg";
+            }
+            else if (sevrolemodel.Items[sevrolemodel.SelectedIndex] == "Silverado")
+            {
+                foto1.Source = "Silverado.jpg";
+            }
+            else if (sevrolemodel.Items[sevrolemodel.SelectedIndex] == "Onix")
+            {
+                foto1.Source = "Onix.jpg";
+            }
+        }
     }
 }

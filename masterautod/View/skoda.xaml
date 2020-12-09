@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="masterautod.View.skoda">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Skoda" />
+            <Image x:Name="foto1" Source="skoda.png"/>
+            <Picker x:Name="skodamodel" SelectedIndexChanged="skodamodel_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Skoda Octavia IV</x:String>
+
+                    <x:String>Skoda Superb III</x:String>
+                    <x:String>Skoda Kodiaq I</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

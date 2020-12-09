@@ -16,5 +16,22 @@ namespace masterautod.View
         {
             InitializeComponent();
         }
+
+        private void merced_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (merced.Items[merced.SelectedIndex] == "Mercedes-Benz X-Class")
+            {
+                foto1.Source = "merr.jpg";
+            }
+
+            else if (merced.Items[merced.SelectedIndex] == "Mercedes-Benz SLC-Class")
+            {
+                foto1.Source = "merc2.jpg";
+            }
+            else if (merced.Items[merced.SelectedIndex] == "Mercedes-Benz A-Class")
+            {
+                foto1.Source = "merc3.jpg";
+            }
+        }
     }
 }

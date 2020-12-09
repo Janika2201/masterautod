@@ -3,10 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.alfarameo">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout Padding="15">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Alfaremeo" />
+            <Image x:Name="foto1" Source="alfo.png"/>
+            <Picker x:Name="alfaromeomodeli" SelectedIndexChanged="alfaromeomodeli_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>ALFA ROMEO Giulietta</x:String>
+                   
+                    <x:String>ALFA ROMEO 4C Spider</x:String>
+                    <x:String>ALFA ROMEO Giulia Veloce</x:String>
+                </Picker.Items>
+            </Picker>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
