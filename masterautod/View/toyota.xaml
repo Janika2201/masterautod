@@ -1,12 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="masterautod.View.toyota">
+             x:Class="masterautod.View.toyota"
+             Title="Toyta">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout BackgroundColor="LemonChiffon" HorizontalOptions="Center" Margin="10">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"
+                   FontSize="Large" Text="Внутренности Toyota" />
+            <Image x:Name="foto1" Source="tyo1.jpg"/>
+            <Picker x:Name="modeltoy" SelectedIndexChanged="modeltoy_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Salong-Салон</x:String>
+                    <x:String>Rool-Руль</x:String>
+                    <x:String>Tagavaade-Задний вид</x:String>
+                    <x:String>Kohad-Сиденья</x:String>
+                    <x:String>Külgvaade-Боковой вид</x:String>
+                </Picker.Items>
+            </Picker>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

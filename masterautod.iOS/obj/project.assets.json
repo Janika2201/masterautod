@@ -978,24 +978,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\opilane\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\masterautod.iOS.csproj",
       "projectName": "masterautod.iOS",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
-      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\masterautod.iOS.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\masterautod.csproj": {
-              "projectPath": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\masterautod.csproj"
+            "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj"
             }
           }
         }

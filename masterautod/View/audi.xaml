@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="masterautod.View.audi">
+             x:Class="masterautod.View.audi"
+             Title="Audi">
     <ContentPage.Content>
-        <StackLayout Padding="15">
-            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Alfaremeo" />
+        <StackLayout Padding="15" BackgroundColor="LightCyan">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин Audi" BackgroundColor="LightPink" />
             <Image x:Name="foto1" Source="audilogo.png"/>
-            <Picker x:Name="audimodeli" SelectedIndexChanged="audimodeli_SelectedIndexChanged">
-                
+            <Picker x:Name="audimodeli" SelectedIndexChanged="audimodeli_SelectedIndexChanged" BackgroundColor="WhiteSmoke">
                 <Picker.Items>
                     <x:String>Audi Q2</x:String>
                     <x:String>Audi A6</x:String>

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\masterautod.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\masterautod.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\masterautod.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
         "projectName": "masterautod",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\masterautod.csproj",
-        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Valjataga\\masterautod\\masterautod\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

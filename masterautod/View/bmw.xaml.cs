@@ -17,9 +17,32 @@ namespace masterautod.View
             InitializeComponent();
         }
 
-        private void picker_SelectedIndexChanged(object sender, EventArgs e)
+        
+
+        private void modelbmw_SelectedIndexChanged(object sender, EventArgs e)
         {
-            header.Text = "Модель: " + picker.Items[picker.SelectedIndex];
+            if (modelbmw.Items[modelbmw.SelectedIndex] == "Salong-Салон")
+            {
+                foto1.Source = "salonbmw.jpg";
+            }
+
+            else if (modelbmw.Items[modelbmw.SelectedIndex] == "Rool-Руль")
+            {
+                foto1.Source = "rul.jpg";
+            }
+            else if (modelbmw.Items[modelbmw.SelectedIndex] == "Tagavaade-Задний вид")
+            {
+                foto1.Source = "zadbmw.jpg";
+            }
+            else if (modelbmw.Items[modelbmw.SelectedIndex] == "Kohad-Сиденья")
+            {
+                foto1.Source = "seden.jpg";
+            }
+            else if (modelbmw.Items[modelbmw.SelectedIndex] == "Külgvaade-Боковой вид")
+            {
+                foto1.Source = "vidzob.jpg";
+            }
+            
         }
     }
 }
