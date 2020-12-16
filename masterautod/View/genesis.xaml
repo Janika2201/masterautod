@@ -3,17 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.genesis">
     <ContentPage.Content>
-        <StackLayout Padding="15">
-            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Genesis" />
+        <StackLayout Padding="15" BackgroundColor="LightGreen">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Genesis" BackgroundColor="LightBlue" />
             <Image x:Name="foto1" Source="genesis.png"/>
-            <Picker x:Name="genesismodel" SelectedIndexChanged="genesis_SelectedIndexChanged">
+            <Picker x:Name="genesismodel" SelectedIndexChanged="genesis_SelectedIndexChanged" BackgroundColor="White">
                 <Picker.Items>
                     <x:String>Genesis G70 I</x:String>
-
                     <x:String>Genesis G80 I</x:String>
                     <x:String>Genesis G80 II</x:String>
                 </Picker.Items>
             </Picker>
+            <Label x:Name="txt" Text=""></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -3,13 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.mercedes">
     <ContentPage.Content>
-        <StackLayout Padding="15">
-            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Mercedes" />
+        <StackLayout Padding="15" BackgroundColor="Orchid">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Mercedes" BackgroundColor="AntiqueWhite"/>
             <Image x:Name="foto1" Source="mers.png"/>
-            <Picker x:Name="merced" SelectedIndexChanged="merced_SelectedIndexChanged">
+            <Picker x:Name="merced" SelectedIndexChanged="merced_SelectedIndexChanged" BackgroundColor="White">
                 <Picker.Items>
                     <x:String>Mercedes-Benz X-Class</x:String>
-
                     <x:String>Mercedes-Benz SLC-Class</x:String>
                     <x:String>Mercedes-Benz A-Class</x:String>
                 </Picker.Items>

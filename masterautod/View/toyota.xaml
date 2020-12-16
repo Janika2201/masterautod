@@ -6,9 +6,9 @@
     <ContentPage.Content>
         <StackLayout BackgroundColor="LemonChiffon" HorizontalOptions="Center" Margin="10">
             <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"
-                   FontSize="Large" Text="Внутренности Toyota" />
+                   FontSize="Large" Text="Внутренности Toyota" BackgroundColor="Aquamarine"/>
             <Image x:Name="foto1" Source="tyo1.jpg"/>
-            <Picker x:Name="modeltoy" SelectedIndexChanged="modeltoy_SelectedIndexChanged">
+            <Picker x:Name="modeltoy" SelectedIndexChanged="modeltoy_SelectedIndexChanged" BackgroundColor="White">
                 <Picker.Items>
                     <x:String>Salong-Салон</x:String>
                     <x:String>Rool-Руль</x:String>

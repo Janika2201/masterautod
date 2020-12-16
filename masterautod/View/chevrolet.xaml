@@ -3,10 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.chevrolet">
     <ContentPage.Content>
-        <StackLayout Padding="15">
-            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Chevroleto" />
+        <StackLayout Padding="15" BackgroundColor="AntiqueWhite">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Chevroleto" BackgroundColor="DarkGoldenrod"/>
             <Image x:Name="foto1" Source="chevr.png"/>
-            <Picker x:Name="sevrolemodel" SelectedIndexChanged="sevrolemodel_SelectedIndexChanged">
+            <Picker x:Name="sevrolemodel" SelectedIndexChanged="sevrolemodel_SelectedIndexChanged" BackgroundColor="White">
 
                 <Picker.Items>
                     <x:String>Corvette</x:String>
@@ -15,6 +15,14 @@
                     <x:String>Onix</x:String>
                 </Picker.Items>
             </Picker>
+            <Label x:Name="txt" Text=""></Label>
+            <Label x:Name="txt1" Text=""></Label>
+            <Label x:Name="txt2" Text=""></Label>
+            <Label x:Name="txt3" Text=""></Label>
+            <Label x:Name="txt4" Text=""></Label>
+            <Label x:Name="txt5" Text=""></Label>
+            <Label x:Name="txt6" Text=""></Label>
+            <Button x:Name="btn" Text="Магазин"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

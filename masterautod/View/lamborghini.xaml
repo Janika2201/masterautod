@@ -3,12 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.lamborghini">
     <ContentPage.Content>
-        <StackLayout Padding="15">
-            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Lamba" />
+        <StackLayout Padding="15" BackgroundColor="LightCoral">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Lamba" BackgroundColor="LightCyan" />
             <Image x:Name="foto1" Source="lamborghini.png"/>
-            <Picker x:Name="lamborginimodel" SelectedIndexChanged="lamborginimodel_SelectedIndexChanged">
+            <Picker x:Name="lamborginimodel" SelectedIndexChanged="lamborginimodel_SelectedIndexChanged" BackgroundColor="White">
                 <Picker.Items>
-                    <x:String>Lamborghini Huracan LP 610-4 I</x:String>
+                    <x:String>Lamborghini Huracan</x:String>
 
                     <x:String>Lamborghini Aventador I</x:String>
                     <x:String>Lamborghini Urus I</x:String>

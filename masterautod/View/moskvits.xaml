@@ -3,10 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="masterautod.View.moskvits">
     <ContentPage.Content>
-        <StackLayout Padding="15">
-            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Moskvits" />
+        <StackLayout Padding="15" BackgroundColor="LightSalmon">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Moskvits" BackgroundColor="Gold" />
             <Image x:Name="foto1" Source="moskvits.png"/>
-            <Picker x:Name="moskvitmodel" SelectedIndexChanged="moskvitmodel_SelectedIndexChanged">
+            <Picker x:Name="moskvitmodel" SelectedIndexChanged="moskvitmodel_SelectedIndexChanged" BackgroundColor="White">
                 <Picker.Items>
                     <x:String>Moskvits 403</x:String>
 
