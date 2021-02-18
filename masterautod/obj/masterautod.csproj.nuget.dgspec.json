@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj",
         "projectName": "masterautod",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -16,7 +16,7 @@ namespace masterautod
             InitializeComponent();
             foto.Source = ImageSource.FromFile("foto.jpg");
             informasija.ItemsSource = GetMenuList();
-            var homepage = typeof(View.bmw);
+            var homepage = typeof(View.sport);
             Detail = new NavigationPage((Page)Activator.CreateInstance(homepage));
             IsPresented = false;
         }
@@ -27,11 +27,12 @@ namespace masterautod
 
             list.Add(new menuitems()
             {
-                Text = "BMW",
-                Detail = "Все о BMW",
-                ImagePath = "bmw.png",
-                TargetPage = typeof(View.bmw)
+                Text = "Home",
+                Detail = "Все о нас",
+                ImagePath = "home.jpg",
+                TargetPage = typeof(View.sport)
             });
+            /*
             list.Add(new menuitems()
             {
                 Text = "AUDI",
@@ -95,7 +96,7 @@ namespace masterautod
                 ImagePath = "toyta.png",
                 TargetPage = typeof(View.toyota)
             });
-
+            */
             return list;
         }
 

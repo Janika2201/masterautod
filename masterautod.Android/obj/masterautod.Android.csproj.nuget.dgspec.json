@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.Android\\masterautod.Android.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.Android\\masterautod.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.Android\\masterautod.Android.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.Android\\masterautod.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.Android\\masterautod.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.Android\\masterautod.Android.csproj",
         "projectName": "masterautod.Android",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.Android\\masterautod.Android.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.Android\\masterautod.Android.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.Android\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj"
+              "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj",
         "projectName": "masterautod",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

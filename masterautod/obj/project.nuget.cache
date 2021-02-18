@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EfHO7fOUrmhvowebCJS+xjWXuh7VmXcDi6pfDiaj2gM11M/7O63YqKlzrTmwgXGAWw/bgEvFoXxFa6NPY6f5+g==",
+  "dgSpecHash": "LBdmJSA1yIWil1ux8HVAdRY5UzHbSwG4YMbUwqjllKnIinZR28tbZ0Xu+FowG3NXtTSYzTCWAFLw4HtgW2P8yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

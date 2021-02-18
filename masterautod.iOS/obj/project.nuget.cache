@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWvFvDpARZx9yLQWB9hg2WVCWOcl0csCYOr0D8065spzboyt7ZWbLsAFGMy47yRhvN3FdETE6Wc+nzL3k/vQ0g==",
+  "dgSpecHash": "U63UA9S4NqVmrd8py8IvS78eOMG9zDTnCCdrMv0iXOmz3SOSC3V+I4VkmVfxZMC47k34TrO3UZppbyXlLvuM/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\masterautod.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"

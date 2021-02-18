@@ -46,3 +46,17 @@ C:\Users\Admin\source\repos\auto\masterautod\obj\Debug\netstandard2.0\XamlC.stam
 C:\Users\Admin\source\repos\auto\masterautod\obj\Debug\netstandard2.0\masterautod.dll
 C:\Users\Admin\source\repos\auto\masterautod\obj\Debug\netstandard2.0\ref\masterautod.dll
 C:\Users\Admin\source\repos\auto\masterautod\obj\Debug\netstandard2.0\masterautod.pdb
+C:\Users\Admin\Source\Repos\masterautod\masterautod\bin\Debug\netstandard2.0\masterautod.deps.json
+C:\Users\Admin\Source\Repos\masterautod\masterautod\bin\Debug\netstandard2.0\masterautod.dll
+C:\Users\Admin\Source\Repos\masterautod\masterautod\bin\Debug\netstandard2.0\ref\masterautod.dll
+C:\Users\Admin\Source\Repos\masterautod\masterautod\bin\Debug\netstandard2.0\masterautod.pdb
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\View\sport.xaml.g.cs
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\masterautod.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\masterautod.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\masterautod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\masterautod.dll
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\ref\masterautod.dll
+C:\Users\Admin\Source\Repos\masterautod\masterautod\obj\Debug\netstandard2.0\masterautod.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TPse1ePw2Vo7Xd+kA/9Favi1rbIjayccQMOjBotuB2cCqe5ZETCArt/2YgGU+NyO5HBreKhKZ1HQBSp8O7OeeQ==",
+  "dgSpecHash": "Tr45rDI61OaoTUxVnJGn81an2RF3I3MXFNUMRq+VehL+H51b62cNG/Pf+0Qmz/xez+JJD+mFRsLeLsWnAm7LpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.Android\\masterautod.Android.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.Android\\masterautod.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

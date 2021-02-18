@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\masterautod.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
       "projectName": "masterautod.iOS",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\masterautod.iOS.csproj",
+      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\auto\\masterautod\\masterautod.csproj"
+            "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj"
             }
           }
         }
