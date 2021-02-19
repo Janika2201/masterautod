@@ -8361,10 +8361,43 @@ namespace masterautod.Droid
 			public const int notify_panel_notification_icon_bg = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int tooltip_frame_dark = 2131165302;
+			public const int otse = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int tooltip_frame_light = 2131165303;
+			public const int otsim = 2131165303;
+			
+			// aapt resource value: 0x7F070078
+			public const int otsimanija = 2131165304;
+			
+			// aapt resource value: 0x7F070079
+			public const int planka = 2131165305;
+			
+			// aapt resource value: 0x7F07007A
+			public const int podemnog = 2131165306;
+			
+			// aapt resource value: 0x7F07007B
+			public const int podtjakivanie = 2131165307;
+			
+			// aapt resource value: 0x7F07007C
+			public const int prised = 2131165308;
+			
+			// aapt resource value: 0x7F07007D
+			public const int skrus = 2131165309;
+			
+			// aapt resource value: 0x7F07007E
+			public const int tooltip_frame_dark = 2131165310;
+			
+			// aapt resource value: 0x7F07007F
+			public const int tooltip_frame_light = 2131165311;
+			
+			// aapt resource value: 0x7F070080
+			public const int ves = 2131165312;
+			
+			// aapt resource value: 0x7F070081
+			public const int voda = 2131165313;
+			
+			// aapt resource value: 0x7F070082
+			public const int zal = 2131165314;
 			
 			static Drawable()
 			{

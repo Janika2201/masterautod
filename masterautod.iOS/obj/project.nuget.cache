@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "U63UA9S4NqVmrd8py8IvS78eOMG9zDTnCCdrMv0iXOmz3SOSC3V+I4VkmVfxZMC47k34TrO3UZppbyXlLvuM/g==",
+  "dgSpecHash": "bfM9OJM2bBl4wQ1/FvMXguePwtdayNnjt4gmPiK8v+HRo0tcday+T0aZGvp4KhpvmoOxCQCcioTo5tE1IUvSEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\Sport\\masterautod.iOS\\masterautod.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

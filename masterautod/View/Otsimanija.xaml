@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="masterautod.View.Otsimanija">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="otse.jpg" />
+            <Label Text="Примите упор лежа (лягте лицом вниз на пол, руки поставьте чуть шире плеч). Придайте телу правильную позу для отжиманий от пола ‒ форму прямой линии.Плечи должны быть немного выше уровня таза. Голова должна смотреть в пол." TextColor="Black" FontSize="Small"
+                 VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   MaxLines="5"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

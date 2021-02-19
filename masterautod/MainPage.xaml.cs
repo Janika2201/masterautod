@@ -27,76 +27,68 @@ namespace masterautod
 
             list.Add(new menuitems()
             {
-                Text = "Home",
+                Text = "Главная",
                 Detail = "Все о нас",
                 ImagePath = "home.jpg",
                 TargetPage = typeof(View.sport)
             });
-            /*
+            
             list.Add(new menuitems()
             {
-                Text = "AUDI",
-                Detail = "Все о AUDI",
-                ImagePath = "audilogo.png",
-                TargetPage = typeof(View.audi)
+                Text = "Отжимания",
+                ImagePath = "otsimanija.jpg",
+                TargetPage = typeof(View.Otsimanija)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "ALFARAMEO",
-                Detail = "Все о ALFARAMEO",
-                ImagePath = "alfo.png",
-                TargetPage = typeof(View.alfarameo)
+                Text = "Планка",
+                ImagePath = "planka.jpg",
+                TargetPage = typeof(View.Planka)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "Chevrolet",
-                Detail = "Все о Chevrolet",
-                ImagePath = "chevr.png",
-                TargetPage = typeof(View.chevrolet)
+                Text = "Подтягивания",
+                ImagePath = "podtjakivanie.jpg",
+                TargetPage = typeof(View.Potjagivanie)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "Mercedes",
-                Detail = "Все о Mercedes",
-                ImagePath = "mers.png",
-                TargetPage = typeof(View.mercedes)
+                Text = "Скручивания",
+                ImagePath = "skrus.jpg",
+                TargetPage = typeof(View.Skruv)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "Gensis",
-                Detail = "Все о Genesis",
-                ImagePath = "genesis.png",
-                TargetPage = typeof(View.genesis)
+                Text = "Подъем ног лежа",
+                ImagePath = "podemnog.jpg",
+                TargetPage = typeof(View.Pdemnog)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "Moskvits",
-                Detail = "Все о Moskvits",
-                ImagePath = "moskvits.png",
-                TargetPage = typeof(View.moskvits)
+                Text = "Приседания",
+                ImagePath = "prised.jpg",
+                TargetPage = typeof(View.Prisedanie)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "Skoda",
-                Detail = "Все о Skoda",
-                ImagePath = "skoda.png",
-                TargetPage = typeof(View.skoda)
+                Text = "Вода",
+                ImagePath = "voda.png",
+                TargetPage = typeof(View.Voda)
             });
+            
             list.Add(new menuitems()
             {
-                Text = "Lamborghini",
-                Detail = "Все о Lamborghini",
-                ImagePath = "lamborghini.png",
-                TargetPage = typeof(View.lamborghini)
+                Text = "Твой вес",
+                ImagePath = "ves.png",
+                TargetPage = typeof(View.ves)
             });
-            list.Add(new menuitems()
-            {
-                Text = "Toyota",
-                Detail = "Все о Toyota",
-                ImagePath = "toyta.png",
-                TargetPage = typeof(View.toyota)
-            });
-            */
+            
             return list;
         }
 

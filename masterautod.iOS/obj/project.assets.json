@@ -978,24 +978,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\opilane\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\Sport\\masterautod.iOS\\masterautod.iOS.csproj",
       "projectName": "masterautod.iOS",
-      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\masterautod.iOS.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod.iOS\\obj\\",
+      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\Sport\\masterautod.iOS\\masterautod.iOS.csproj",
+      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\opilane\\Source\\Repos\\Sport\\masterautod.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Source\\Repos\\masterautod\\masterautod\\masterautod.csproj"
+            "C:\\Users\\opilane\\Source\\Repos\\Sport\\masterautod\\masterautod.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\Sport\\masterautod\\masterautod.csproj"
             }
           }
         }
